@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "砂塵ノ記憶",
+  "base_artist": "高橋邦幸",
+  "createdAt": "2026-03-31T06:45:23.834647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "砂塵ノ記憶",
+      "artist": "高橋邦幸",
+      "has_synced": true,
+      "path": "select/01_砂塵ノ記憶_高橋邦幸.lrc"
+    }
+  ]
+}
